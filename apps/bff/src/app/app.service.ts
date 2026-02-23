@@ -4,6 +4,9 @@ import { PORT } from '@common/constants/common.constant';
 export class AppService {
   getData(): { message: string; port: number } {
     console.log(PORT);
-    return { message: 'Hello API', port: PORT };
+    return {
+      message: 'Hello API 123',
+      port: PORT,
+    };
   }
 }
