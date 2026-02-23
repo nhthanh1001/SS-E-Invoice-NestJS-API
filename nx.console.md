@@ -1,0 +1,10 @@
+# 1. Cách tạo 1 app với nx
+
+Step 1: Ctrl + Shift + P
+Step 2: Generate UI -> Nest app
+Step 3: Điền các thông tin -> Generate
+
+# 2. Cách tạo 1 lib với nx
+
+Step 1: Ctrl + Shift + P
+Step 2: Generate UI -> Lib
